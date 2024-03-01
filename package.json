@@ -10,15 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@theblindhawk/roulette": "^3.0.1",
     "axios": "^1.6.7",
-    "party-game-sentences": "^1.2.10",
     "react": "^18.2.0",
-    "react-custom-roulette": "^1.4.1",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.22.2",
-    "react-wheel-of-prizes": "^1.0.9",
-    "spin-wheel": "^4.3.1"
+    "react-router-dom": "^6.22.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
@@ -29,6 +24,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^5.1.4"
-  },
-  "proxy": "http://localhost:5173"
+  }
+
 }
